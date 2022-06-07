@@ -1,4 +1,4 @@
-# password
+# codechef - 2
 In this case, we used the re module, which supports regular expressions in Python. 
 Furthermore, the re.search() method returns False if the first parameter is not found in the second parameter. 
 This method is better suited for checking a regular expression than extracting data.
